@@ -27,6 +27,7 @@ void setup() {
 
   Serial.println("Adafruit MLX90614 test");  
 
+
   mlx.begin(); 
    
 }
