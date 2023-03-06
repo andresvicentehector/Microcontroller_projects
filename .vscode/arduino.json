@@ -1,6 +1,0 @@
-{
-    "sketch": "roco leds\\arduino_mega_2paredes\\arduino_mega_2paredes.ino",
-    "configuration": "cpu=atmega2560",
-    "board": "arduino:avr:mega",
-    "port": "COM3"
-}
