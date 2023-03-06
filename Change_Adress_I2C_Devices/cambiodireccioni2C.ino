@@ -1,13 +1,3 @@
-/**
- * Change I²C Device Address
- * by Jaime Patarroyo
- * based on paulrd reply #6 on topic 'Multiple Melexis MLX90614 on the 
- * same i2c, how to change addresses?' at Arduino's forum.
- * 
- * Assigns a new address to a TWI/I²C device connected to the TWI/I²C 
- * pins (on the Wiring v1 board 0 (SCL) and 1 (SDA) and on Wiring S 
- * board 8 (SCL) and 9 (SDA)).
- */
 
 #include <i2cmaster.h>
 
